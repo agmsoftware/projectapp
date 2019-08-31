@@ -1,4 +1,4 @@
-# projectapp
+# ProjectApp
 Codeigniter HMVC for Multi Projects
 
 Template Codeigniter ( HMVC ) untuk membuat multi project
