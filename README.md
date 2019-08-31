@@ -18,3 +18,5 @@ on those index.php, please edit on $application_folder = 'application/modules/na
 6. projectapp/application/modules/appone/config/config.php
 
 on those config.php, change to suit your configuration and also the files that need to be changed
+
+Thanks to Froala, Codeigniter and Wiredesignz ::love::
