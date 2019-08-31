@@ -1,19 +1,20 @@
 # ProjectApp
 Codeigniter HMVC for Multi Projects
 
-Template Codeigniter ( HMVC ) untuk membuat multi project<br>
-*Codeigniter Template ( HMVC ) for creating multi projects*
+these folders are combining source code from internet
+the modules folder separate apps and could be setup differently for each app
 
 # config
-config yang perlu dirubah
-*config that need to edit*
+You need to edit some config
 
-masuk folder projectapp
-*go to projectapp folder*
+1. go to projectapp folder
+2. application/config.php ( landing page )
+3. projectapp/application/modules/appone/index.php ( landing page for appone )
+4. projectapp/application/modules/apptwo/index.php ( landing page for apptwo )
 
-application/config.php ( sesuaikan / *match with yours* )
-( landing page )
+on those index.php, please edit on $application_folder = 'application/modules/name.of.your.app.folder';
 
+5. projectapp/application/modules/appone/config/config.php
+6. projectapp/application/modules/appone/config/config.php
 
-projectapp/application/modules/appone/index.php ( sesuaikan / *match with yours* )
-projectapp/application/modules/apptwo/index.php ( sesuaikan / *match with yours* )
+on those config.php, change to suit your configuration and also other files that need to be changed
