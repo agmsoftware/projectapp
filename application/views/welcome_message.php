@@ -13,7 +13,7 @@
 <section class="fdb-block fp-active" data-block-type="features" data-id="3">
   <div class="container">
     <div class="row justify-content-center pb-xl-5">
-      <div class="col-8 col-sm-8 text-center" style="z-index: 10000;"><h1>Contoh Halaman Portal</h1><p><img alt="image" class="img-fluid mt-5" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//draws/development.svg"></p></div>
+      <div class="col-8 col-sm-8 text-center" style="z-index: 10000;"><h1>Landing Page</h1><p><img alt="image" class="img-fluid mt-5" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//draws/development.svg"></p></div>
     </div>
 
     <div class="row text-left justify-content-center pt-5">
