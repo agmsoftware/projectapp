@@ -12,7 +12,7 @@ masuk folder projectapp
 *go to projectapp folder*
 
 application/config.php ( sesuaikan / *match with yours* )
-
+( landing page )
 
 
 projectapp/application/modules/appone/index.php ( sesuaikan / *match with yours* )
