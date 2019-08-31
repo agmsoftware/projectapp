@@ -1,8 +1,8 @@
 # ProjectApp
 Codeigniter HMVC for Multi Projects
 
-these folders are combining source code from internet and
-the modules folder separate apps. it could be setup differently for each app
+these Codeigniter folders are combining source code from internet and
+the modules folder separates the apps. it could be setup differently for each of them
 
 # config
 You have to edit some config
@@ -17,4 +17,4 @@ on those index.php, please edit on $application_folder = 'application/modules/na
 5. projectapp/application/modules/appone/config/config.php
 6. projectapp/application/modules/appone/config/config.php
 
-on those config.php, change to suit your configuration and also other files that need to be changed
+on those config.php, change to suit your configuration and also the files that need to be changed
