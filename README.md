@@ -1,11 +1,11 @@
 # ProjectApp
 Codeigniter HMVC for Multi Projects
 
-these folders are combining source code from internet
-the modules folder separate apps and could be setup differently for each app
+these folders are combining source code from internet and
+the modules folder separate apps. it could be setup differently for each app
 
 # config
-You need to edit some config
+You have to edit some config
 
 1. go to projectapp folder
 2. application/config.php ( landing page )
