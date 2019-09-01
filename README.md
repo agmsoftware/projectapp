@@ -20,3 +20,5 @@ on those index.php, please edit on $application_folder = 'application/modules/na
 on those config.php, change to suit your configuration and also the files that need to be changed
 
 Thanks to Froala, Codeigniter and Wiredesignz ::love::
+
+agmsoftware.id
